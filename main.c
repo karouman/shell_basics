@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 void main(int ac, char** av)
 {
